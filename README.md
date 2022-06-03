@@ -1,6 +1,6 @@
-### Hello everyone! 👋, I'm @marcob1995
+### Hello world! 👋, I'm @marcob1995
 
-I'm currently working as Solution Developer at Knowage Labs. 
+I'm a Backend Engineer at Ermes Cybersecurity. 
 
 
-![knowage](https://user-images.githubusercontent.com/38689029/142902475-771a1259-ead6-4071-9897-c8a1f8abec35.png)
+![ermes_logo-1571297503](https://user-images.githubusercontent.com/38689029/171949936-0dc8a7fa-b875-4e76-bad7-1d8c70a33c19.jpg)
